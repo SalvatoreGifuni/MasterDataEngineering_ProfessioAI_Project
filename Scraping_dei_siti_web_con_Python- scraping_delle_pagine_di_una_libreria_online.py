@@ -1,10 +1,10 @@
 """
 Project Main Info: 
-BookSmart Solutions S.r.l. vuole migliorare la sua analisi di mercato raccogliendo dati strutturati dai libri di una libreria online concorrente. 
-L'obiettivo è sviluppare uno script di web scraping che estragga informazioni chiave come titolo, valutazione in stelle, prezzo e disponibilità dei libri dal sito https://books.toscrape.com. 
-I dati verranno poi organizzati in un formato tabellare e salvati in un file CSV. 
-Questo progetto offrirà vantaggi come l'analisi competitiva avanzata, l'ottimizzazione dell'offerta di prodotti e l'integrazione con sistemi interni. 
-Saranno gestite eccezioni per garantire la robustezza dello script.
+BookSmart Solutions S.r.l. wants to improve its market analysis by collecting structured data from the books of a competing online bookstore. 
+The goal is to develop a web scraping script that extracts key information such as title, star rating, price and availability of books from https://books.toscrape.com. 
+The data will then be organised in a table format and saved in a CSV file. 
+This project will offer benefits such as advanced competitive analysis, optimisation of product offerings and integration with internal systems. 
+Exceptions will be handled to ensure the robustness of the script.
 """
 
 # Modules
